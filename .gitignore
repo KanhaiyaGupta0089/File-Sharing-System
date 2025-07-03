@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Uploaded files
+uploads/
+
+# IDE settings
+.vscode/
+
+# Test cache
+.pytest_cache/

@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+Flask-JWT-Extended
+python-dotenv
+Flask-Cors
+itsdangerous
